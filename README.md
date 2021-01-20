@@ -35,6 +35,7 @@ Budget Tracking App created for Coder Academy T3A2 Full Stack assignment
 - Jest + Cypress - For testing React/Javascript code
 
 ## Dataflow Diagram
+![Dataflow Diagram](./Media/Data%20Flow%20Diagram.png)
 
 ### Entity Relational Diagram
 ![ERD](./Media/ERD.jpg)
