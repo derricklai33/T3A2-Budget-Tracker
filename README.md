@@ -36,10 +36,40 @@ Budget Tracking App created for Coder Academy T3A2 Full Stack assignment
 
 ## Dataflow Diagram
 
+### Entity Relational Diagram
+![ERD](./Media/ERD.jpg)
+
 ## Application Architecture Diagram
 
 ## User Stories
+- As Stacy, I want to be greeted with a landing page, so that
+- As Stacy, I want to be able to create an account, so that
+- As Max, I want to be able to update my account, so that
+- As Max, I want to be able to update my password, so that
+- As Max, I want to be able to reset my password, so that
+- As Cam, I want to be able to log in, so that
+- As Cam, I want to be able to log out, so that
+- As John, I want to be able to enter an expense via a form, so that
+- As John, I want to be able to add an expense description, so that
+- As John, I want to be able to add an expense price, so that
+- As John, I want to be able to add an expense category/s, so that
+- As Holly, I want to be able to add an income via a form, so that
+- As Holly, I want to be able to add an income description, so that
+- As Holly, I want to be able to add an income price, so that
+- As Holly, I want to be able to add an income category/s, so that
+- As Kevin, I want to be able to edit any expenses I have entered, so that
+- As Kevin, I want to be able to edit any incomes I have entered, so that
+- As Samantha, I want to be able to delete any expenses I have entered, so that
+- As Samantha, I want to be able to delete any incomes I have entered, so that
+- As Tim, I want to be able to view my yearly expenses to date, so that
+- As Tim, I want to be able to view my monthly expenses, so that
+- As Tim, I want to be able to sort expenses based on categories, so that
+- As Tim, I want to be able to view my categories in a range of charts, so that
+- As Jimmy, I want to be able to view my selection of shares, so that
+- As Jimmy, I want to be able to have a watch-list of my preferred shares, so that
+- As Jimmy, I want to be able to customise my own watch-list, so that
 
 ## Wireframes
 
 ## Screenshots of Trello board
+![Initial Trello for README](./Media/Trello%20Screenshots/Initial%20board%20for%20README.png)
