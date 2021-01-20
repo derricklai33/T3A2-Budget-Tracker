@@ -11,7 +11,7 @@ Budget Tracking App created for Coder Academy T3A2 Full Stack assignment
 - A range of other metric tracking charts will be implemented, to allow people to select and visually interpret things such as categories of expenses or their monthly expenditure.
 
 ## Target Audience
-- As mentioned above, the target audience for this application is broad and it can be easily adopted and used by anyone.
+- The intended audience for this application is targeted towards users that are looking keep their finances and expenses under control. Users that own shares will also be able to find use out of this application by having a watch-list and real-time tracking graph analysis for shares of their choice.
 
 ## Tech Stack
 
@@ -21,8 +21,7 @@ Budget Tracking App created for Coder Academy T3A2 Full Stack assignment
 #### *Backend*
 - Rails API
 - PostgreSQL database
-- Devise user authentication
-- CanCanCan authorization
+- Knock JWT authentication
 
 #### *External Resources*
 - TradingView finance widgets for tracking shares 
@@ -30,6 +29,10 @@ Budget Tracking App created for Coder Academy T3A2 Full Stack assignment
 - React-beautiful-dnd
 - Heroku web deployment platform
 - Netlify deployment
+
+#### *Testing*
+- Rspec - For testing Rails code
+- Jest + Cypress - For testing React/Javascript code
 
 ## Dataflow Diagram
 
