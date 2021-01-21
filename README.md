@@ -21,7 +21,8 @@ Budget Tracking App created for Coder Academy T3A2 Full Stack assignment
 #### *Backend*
 - Rails API
 - PostgreSQL database
-- Knock JWT authentication
+- Auth0 authorization + authentication
+- JWT tokens
 
 #### *External Resources*
 - TradingView finance widgets for tracking shares 
@@ -79,6 +80,13 @@ Budget Tracking App created for Coder Academy T3A2 Full Stack assignment
 - As Jimmy, I want to be able to view my selection of shares, so that I am able to keep track of how my share prices are doing
 - As Jimmy, I want to be able to have a watch-list of my preferred shares, so that I can keep track of shares that I own/interested in
 - As Jimmy, I want to be able to customise my own watch-list, so that I can have a choice on which shares appear on my watch-list
+
+#### Financial Goals
+- As Beth, I want to be able to create a list of my financial goals, so I have something to aspire towards
+- As Beth, I want to be able to add a goal description, so the goal has relevance
+- As Beth, I want to be able to add a goal due date, to keep inline with SMART goal setting practices
+- As Abbey, I want to move the goals into different buckets depending on status, so I can keep my goals on track for the year and
+- As Abbey, I want to be able to complete and archive my financial goals, so I can refer to them in the future
 
 ## Wireframes
 
