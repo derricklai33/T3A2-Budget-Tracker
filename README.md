@@ -89,6 +89,16 @@ Budget Tracking App created for Coder Academy T3A2 Full Stack assignment
 - As Abbey, I want to be able to complete and archive my financial goals, so I can refer to them in the future
 
 ## Wireframes
+#### Landing Page
+![Landing Page](./Media/wireframe-landing-page.jpg)
+ 
+#### Log In & Sign up Page
+![Landing Page](./Media/wireframe-login-signup.jpg)
+ 
+#### Dashboard Page
+![Landing Page](./Media/wireframe-dashboard-1.jpg)
+![Landing Page](./Media/wireframe-dashboard-2.jpg)
+![Landing Page](./Media/wireframe-dashboard-3.jpg)
 
 ## Screenshots of Trello board
 ![Initial Trello for README](./Media/Trello%20Screenshots/Initial%20board%20for%20README.png)
