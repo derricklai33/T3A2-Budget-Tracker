@@ -42,6 +42,7 @@ Budget Tracking App created for Coder Academy T3A2 Full Stack assignment
 ![ERD](./Media/ERD.jpg)
 
 ## Application Architecture Diagram
+![Application Architecture Diagram](./Media/application-architecture-diagram.jpg)
 
 ## User Stories
 
@@ -89,6 +90,9 @@ Budget Tracking App created for Coder Academy T3A2 Full Stack assignment
 - As Abbey, I want to be able to complete and archive my financial goals, so I can refer to them in the future
 
 ## Wireframes
+
+Link to Figma: https://www.figma.com/file/mm5X1Hgvh8IKJkEOKF8ahQ/Wireframe-T3A2?node-id=0%3A1
+
 #### Landing Page
 ![Landing Page](./Media/wireframe-landing-page.jpg)
  
@@ -101,4 +105,10 @@ Budget Tracking App created for Coder Academy T3A2 Full Stack assignment
 ![Landing Page](./Media/wireframe-dashboard-3.jpg)
 
 ## Screenshots of Trello board
+
+Link to Trello board: https://trello.com/b/FQHhNQvr/t3a2-full-stack-app
+
 ![Initial Trello for README](./Media/Trello%20Screenshots/Initial%20board%20for%20README.png)
+![Day 2 Trello for README](./Media/Trello%20Screenshots/day-2-trello.png)
+![Day 3 Trello for README](./Media/Trello%20Screenshots/day-3-trello.jpg)
+![Day 4 Trello for README](./Media/Trello%20Screenshots/day-4-trello.jpg)
