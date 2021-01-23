@@ -36,13 +36,13 @@ Budget Tracking App created for Coder Academy T3A2 Full Stack assignment
 - Jest + Cypress - For testing React/Javascript code
 
 ## Dataflow Diagram
-![Dataflow Diagram](./Media/Data%20Flow%20Diagram.png)
+![Dataflow Diagram](./docs/Data%20Flow%20Diagram.png)
 
 ### Entity Relational Diagram
-![ERD](./Media/ERD.jpg)
+![ERD](./docs/ERD.jpg)
 
 ## Application Architecture Diagram
-![Application Architecture Diagram](./Media/application-architecture-diagram.jpg)
+![Application Architecture Diagram](./docs/application-architecture-diagram.jpg)
 
 ## User Stories
 
@@ -94,21 +94,21 @@ Budget Tracking App created for Coder Academy T3A2 Full Stack assignment
 Link to Figma: https://www.figma.com/file/mm5X1Hgvh8IKJkEOKF8ahQ/Wireframe-T3A2?node-id=0%3A1
 
 #### Landing Page
-![Landing Page](./Media/wireframe-landing-page.jpg)
+![Landing Page](./docs/wireframe-landing-page.jpg)
  
 #### Log In & Sign up Page
-![Landing Page](./Media/wireframe-login-signup.jpg)
+![Landing Page](./docs/wireframe-login-signup.jpg)
  
 #### Dashboard Page
-![Landing Page](./Media/wireframe-dashboard-1.jpg)
-![Landing Page](./Media/wireframe-dashboard-2.jpg)
-![Landing Page](./Media/wireframe-dashboard-3.jpg)
+![Landing Page](./docs/wireframe-dashboard-1.jpg)
+![Landing Page](./docs/wireframe-dashboard-2.jpg)
+![Landing Page](./docs/wireframe-dashboard-3.jpg)
 
 ## Screenshots of Trello board
 
 Link to Trello board: https://trello.com/b/FQHhNQvr/t3a2-full-stack-app
 
-![Initial Trello for README](./Media/Trello%20Screenshots/Initial%20board%20for%20README.png)
-![Day 2 Trello for README](./Media/Trello%20Screenshots/day-2-trello.png)
-![Day 3 Trello for README](./Media/Trello%20Screenshots/day-3-trello.jpg)
-![Day 4 Trello for README](./Media/Trello%20Screenshots/day-4-trello.jpg)
+![Initial Trello for README](./docs/Trello%20Screenshots/Initial%20board%20for%20README.png)
+![Day 2 Trello for README](./docs/Trello%20Screenshots/day-2-trello.png)
+![Day 3 Trello for README](./docs/Trello%20Screenshots/day-3-trello.jpg)
+![Day 4 Trello for README](./docs/Trello%20Screenshots/day-4-trello.jpg)
