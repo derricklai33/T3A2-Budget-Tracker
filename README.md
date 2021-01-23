@@ -72,6 +72,8 @@ Budget Tracking App created for Coder Academy T3A2 Full Stack assignment
 - As Holly, I want to be able to add an income category/s, so that I can organise my income
 - As Samantha, I want to be able to edit any incomes I have entered, so that I can ensure the data is correct if I make a mistake
 - As Samantha, I want to be able to delete any incomes I have entered, so that I can ensure that only the incomes I have displayed are relevant
+- As Ben, I want to be able to view my monthly income, so that I can get a more detailed breakdown of where my money is coming from
+- As Ben, I want to be able to view my yearly income to date, so that I can be sure of how much money I have earned this year
 
 #### Categories
 - As Tim, I want to be able to sort expenses based on categories, so that I can have a overall breakdown in which categories I spend most of my money on
